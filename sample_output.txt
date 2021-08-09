@@ -1,0 +1,69 @@
+Token 106,string main,line number 1
+Token 8,string (,line number 1
+Token 9,string ),line number 1
+Token 6,string {,line number 1
+Lexical Error in line number 1
+Token 101,string float,line number 2
+Token 34,string a,line number 2
+Token 18,string :=,line number 2
+Token 37,string 2.5,line number 2
+Token 13,string ,,line number 2
+Token 34,string n,line number 2
+Token 18,string :=,line number 2
+Token 38,string 100,line number 2
+Token 12,string ;,line number 2
+Lexical Error in line number 2
+Token 108,string if,line number 3
+Token 8,string (,line number 3
+Token 34,string a,line number 3
+Token 22,string >,line number 3
+Token 34,string n,line number 3
+Token 9,string ),line number 3
+Token 6,string {,line number 3
+Lexical Error in line number 3
+Token 105,string cout,line number 4
+Token 8,string (,line number 4
+Token 47,string a is greater than n,line number 4
+Token 9,string ),line number 4
+Token 12,string ;,line number 4
+Lexical Error in line number 4
+Token 7,string },line number 5
+Lexical Error in line number 5
+Token 108,string if,line number 6
+Token 8,string (,line number 6
+Token 34,string a,line number 6
+Token 25,string <,line number 6
+Token 34,string n,line number 6
+Token 32,string ||,line number 6
+Token 34,string a,line number 6
+Token 16,string ==,line number 6
+Token 34,string n,line number 6
+Token 9,string ),line number 6
+Token 6,string {,line number 6
+Lexical Error in line number 6
+Token 105,string cout,line number 7
+Token 8,string (,line number 7
+Token 47,string a is less than or equal to n,line number 7
+Token 9,string ),line number 7
+Token 12,string ;,line number 7
+Lexical Error in line number 7
+Token 7,string },line number 8
+Lexical Error in line number 8
+Token 100,string int,line number 9
+Token 34,string b,line number 9
+Token 12,string ;,line number 9
+Lexical Error in line number 9
+Token 34,string b,line number 10
+Token 18,string :=,line number 10
+Token 34,string a,line number 10
+Token 39,string +,line number 10
+Token 38,string 1,line number 10
+Token 12,string ;,line number 10
+Lexical Error in line number 10
+Token 105,string cout,line number 11
+Token 8,string (,line number 11
+Token 34,string b,line number 11
+Token 9,string ),line number 11
+Token 12,string ;,line number 11
+Lexical Error in line number 11
+Token 7,string },line number 12

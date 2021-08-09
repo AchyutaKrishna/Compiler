@@ -1,0 +1,12 @@
+main(){
+    float a:= 2.5 ,n:=100;
+    if(a>n){
+        cout("a is greater than n");
+    }
+    if(a<n || a==n){
+        cout("a is less than or equal to n");
+    }
+    int b;
+    b:=a+ 1;
+    cout(b);
+}
